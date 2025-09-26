@@ -26,14 +26,14 @@ https://github.com/Senya-Sidorov/Lab2/blob/main/lab2Bdiagram.png
 
 ## 2. Реализация программы
 
-#define _CRT_SECURE_NO_DEPRECATE
-#include <stdio.h>
-#include <locale.h>
+#define _CRT_SECURE_NO_DEPRECATE 
+#include <stdio.h> 
+#include <locale.h> 
 
 int main()
 {
-	setlocale(LC_ALL, "RUS");
 
+	setlocale(LC_ALL, "RUS");
 	float a;
 	float r, R;
 	float koren2 = 1.41421; // корень из двух
