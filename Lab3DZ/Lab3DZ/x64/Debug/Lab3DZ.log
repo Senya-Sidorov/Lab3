@@ -1,5 +1,0 @@
-﻿  Lab3DZ.c
-C:\бИПТ-252\ДЗ\Lab3DZ\Lab3DZ.c(17,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\бИПТ-252\ДЗ\Lab3DZ\Lab3DZ.c(18,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\бИПТ-252\ДЗ\Lab3DZ\Lab3DZ.c(11,17): warning C4305: инициализация: усечение из "double" в "float"
-  Lab3DZ.vcxproj -> C:\бИПТ-252\ДЗ\Lab3DZ\x64\Debug\Lab3DZ.exe
