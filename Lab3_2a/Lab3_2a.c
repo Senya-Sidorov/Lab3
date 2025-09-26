@@ -12,17 +12,17 @@ int main() {
 	int mil;
 	float result1, result2, result3, result4, result5;
 
-	puts("Напишите целое число миль, которое хотите перевести в километры");
+	puts("РќР°РїРёС€РёС‚Рµ С†РµР»РѕРµ С‡РёСЃР»Рѕ РјРёР»СЊ, РєРѕС‚РѕСЂРѕРµ С…РѕС‚РёС‚Рµ РїРµСЂРµРІРµСЃС‚Рё РІ РєРёР»РѕРјРµС‚СЂС‹");
 
 	scanf("%d", &mil);
 
 	result1 = M1 / 1000 * mil, result2 = M2 * mil, result3 = M3 / 1000 * mil, result4 = M3 * mil, result5 = M3 * mil;
 
-	printf("%d морских миль – это %.2f км", mil, result1);
-	printf("\n%d сухопутных миль – это %.2f км", mil, result2);
-	printf("\n%d римских миль – это %.2f км", mil, result3);
-	printf("\n%d старорусских миль – это %.2f км", mil, result4);
-	printf("\n%d географических миль – это %.2f км\n", mil, result5);
+	printf("%d РјРѕСЂСЃРєРёС… РјРёР»СЊ вЂ“ СЌС‚Рѕ %.2f РєРј", mil, result1);
+	printf("\n%d СЃСѓС…РѕРїСѓС‚РЅС‹С… РјРёР»СЊ вЂ“ СЌС‚Рѕ %.2f РєРј", mil, result2);
+	printf("\n%d СЂРёРјСЃРєРёС… РјРёР»СЊ вЂ“ СЌС‚Рѕ %.2f РєРј", mil, result3);
+	printf("\n%d СЃС‚Р°СЂРѕСЂСѓСЃСЃРєРёС… РјРёР»СЊ вЂ“ СЌС‚Рѕ %.2f РєРј", mil, result4);
+	printf("\n%d РіРµРѕРіСЂР°С„РёС‡РµСЃРєРёС… РјРёР»СЊ вЂ“ СЌС‚Рѕ %.2f РєРј\n", mil, result5);
 
 	system("pause");
 	return 0;

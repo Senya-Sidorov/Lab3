@@ -6,14 +6,14 @@ void main()
  int num1;
  int num2;
 
- setlocale(LC_CTYPE, "RUS");
- puts("Введите первое число");
- scanf("%d", &num1);
- puts(" ");
- puts("Введите второе число");
- scanf("%d", &num2);
- puts("");
- printf("Сумма: %d, Разность: %d, Произведение: %d, Частное: %d, Остаток: %d", num2 + num1, num2 - num1, num2 * num1, num2 / num1, num2 % num1);
+setlocale(LC_CTYPE, "RUS");
+puts("Р’РІРµРґРёС‚Рµ РїРµСЂРІРѕРµ С‡РёСЃР»Рѕ");
+scanf("%d", &num1);
+puts(" ");
+puts("Р’РІРµРґРёС‚Рµ РІС‚РѕСЂРѕРµ С‡РёСЃР»Рѕ");
+scanf("%d", &num2);
+puts("");
+printf("РЎСѓРјРјР°: %d, Р Р°Р·РЅРѕСЃС‚СЊ: %d, РџСЂРѕРёР·РІРµРґРµРЅРёРµ: %d, Р§Р°СЃС‚РЅРѕРµ: %d, РћСЃС‚Р°С‚РѕРє: %d", num2 + num1, num2 - num1, num2 * num1, num2 / num1, num2 % num1);
 
  system("pause");
  return 0;
