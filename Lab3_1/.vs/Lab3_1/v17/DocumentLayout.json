@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A72553-932A-459D-A439-88DB61719A82}|..\\Lab3_3\\Lab3_3.vcxproj|C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_3\\Lab3_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1514796-0B42-4972-8426-742B700F8814}|..\\Lab3_2a\\Lab3_2a.vcxproj|C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_2a\\Lab3_2a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29B968C-FBAB-472E-B229-F6A4D32775FB}|..\\Lab3_2\\Lab3_2.vcxproj|C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_2\\Lab3_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE9BED6-7694-4648-ADE7-168BDD56C39B}|Lab3_1.vcxproj|C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_1\\Lab3_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DE9BED6-7694-4648-ADE7-168BDD56C39B}|Lab3_1.vcxproj|solutionrelative:Lab3_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab3_1.c",
+              "DocumentMoniker": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_1\\Lab3_1.c",
+              "RelativeDocumentMoniker": "Lab3_1.c",
+              "ToolTip": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_1\\Lab3_1.c",
+              "RelativeToolTip": "Lab3_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-25T23:32:31.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab3_2.c",
+              "DocumentMoniker": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_2\\Lab3_2.c",
+              "RelativeDocumentMoniker": "..\\Lab3_2\\Lab3_2.c",
+              "ToolTip": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_2\\Lab3_2.c",
+              "RelativeToolTip": "..\\Lab3_2\\Lab3_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-25T23:54:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab3_2a.c",
+              "DocumentMoniker": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_2a\\Lab3_2a.c",
+              "RelativeDocumentMoniker": "..\\Lab3_2a\\Lab3_2a.c",
+              "ToolTip": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_2a\\Lab3_2a.c",
+              "RelativeToolTip": "..\\Lab3_2a\\Lab3_2a.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-26T00:03:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3_3.c",
+              "DocumentMoniker": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_3\\Lab3_3.c",
+              "RelativeDocumentMoniker": "..\\Lab3_3\\Lab3_3.c",
+              "ToolTip": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab3_3\\Lab3_3.c",
+              "RelativeToolTip": "..\\Lab3_3\\Lab3_3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-26T00:11:01.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
