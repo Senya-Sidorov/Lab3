@@ -20,7 +20,7 @@
 6. **Конец**
   
 ### Блок-схема
-![Блок-схема алгоритма](Lab3DZdiagram.png)
+![Блок-схема алгоритма](Lab3diagram.png)
 
 https://github.com/Senya-Sidorov/Lab2/blob/main/lab2Bdiagram.png
 
