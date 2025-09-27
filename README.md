@@ -27,13 +27,10 @@
 https://github.com/Senya-Sidorov/Lab3/blob/main/lab3diagram_1.png
 
 ## 2. Реализация программы
+```
 #define _CRT_SECURE_NO_DEPRECATE
 #include <locale.h>
-
 #include <stdio.h>               
-
-
-
 #define koren2 1.4142
 int main()
 {
@@ -54,6 +51,7 @@ int main()
 
 	return 0;
 }
+```
 
 ## 3. Результаты работы программы
 
