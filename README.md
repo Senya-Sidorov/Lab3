@@ -22,9 +22,9 @@
 6. **Конец**
   
 ### Блок-схема
-![Блок-схема алгоритма](Lab3diagram.png)
+![Блок-схема алгоритма](lab3diagram_1.png)
 
-https://github.com/Senya-Sidorov/Lab2/blob/main/lab2Bdiagram.png
+https://github.com/Senya-Sidorov/Lab3/blob/main/lab3diagram_1.png
 
 ## 2. Реализация программы
 
