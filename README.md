@@ -6,10 +6,12 @@
 
 ### Алгоритм
 1. **Начало**
-2. Инициализировать переменные:
+2. Объявить константы:
+- `koren2` (float) — √2
+3. Инициализировать переменные:
 - `a` (float) — сторона квадрата.
 - `r` (float), `R`(float) — радиус вписанной и описанной окружности.
-- `koren2` (float) — √2 (для удобства, чтобы не вводить математическую библиотеку)
+- `koren2` (float) — √2
 3. Вычислить по формуле радиус вписанной окружности:
 - `r` = `a` / 2.0
 4. Вычислить по формуле радиус описанной окружности:
@@ -20,23 +22,22 @@
 6. **Конец**
   
 ### Блок-схема
-![Блок-схема алгоритма](Lab3DZdiagram.png)
+![Блок-схема алгоритма](Lab3diagram.png)
 
 https://github.com/Senya-Sidorov/Lab2/blob/main/lab2Bdiagram.png
 
 ## 2. Реализация программы
 
-#define _CRT_SECURE_NO_DEPRECATE 
-#include <stdio.h> 
-#include <locale.h> 
-
+#define _CRT_SECURE_NO_DEPRECATE
+#include <stdio.h>
+#include <locale.h>
+#define koren2 1.4142
 int main()
 {
-
 	setlocale(LC_ALL, "RUS");
+
 	float a;
 	float r, R;
-	float koren2 = 1.41421; // корень из двух
 
 	puts("Введите сторону квадрата a: ");
 
@@ -55,4 +56,6 @@ int main()
 
 ![result](Lab3DZresult.png)
 
+## 4. Информация о разработчике
+Выполнил Сидоров Арсений, бИПТ-252
 
